@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819090112393",
+    "project_id": "projeto-cineinfo",
+    "storage_bucket": "projeto-cineinfo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819090112393:android:1155a5d369eefc55596b58",
+        "android_client_info": {
+          "package_name": "com.example.cineinfo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS9WI_OP0xqFc9Y_On0GAmoKQ6GWEiWLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:gravity="center"
+        android:background="#000000"
+    android:paddingTop="50dp">
+
+        <TextView
+            android:id="@+id/appName"
+            android:layout_width="157dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
+            android:gravity="center"
+            android:text="CineInfo"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp" />
+
+        <EditText
+        android:id="@+id/emailEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:textColorHint="#FFFFFF"
+    android:textColor="#FFFFFF"
+    android:inputType="textEmailAddress"
+    android:padding="16dp"
+    android:layout_marginTop="16dp"
+    android:layout_marginBottom="16dp"
+    android:backgroundTint="#FFFFFF" />
+
+    <EditText
+        android:id="@+id/passwordEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Senha"
+        android:textColorHint="#FFFFFF"
+    android:textColor="#FFFFFF"
+    android:inputType="textPassword"
+    android:layout_marginTop="16dp"
+    android:layout_marginBottom="16dp"
+    android:padding="16dp"
+    android:backgroundTint="#FFFFFF" />
+
+    <!-- Botão de Login -->
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:background="#D32F2F"
+
+        android:textColor="#FFFFFF"
+    android:layout_marginTop="16dp"
+    android:layout_marginBottom="16dp" />
+
+        <Button
+            android:id="@+id/registerButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Registrar"
+            android:textColor="#FFFFFF"
+        android:background="#D32F2F"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp" />
+
+</LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>

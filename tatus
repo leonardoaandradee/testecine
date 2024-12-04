@@ -1,0 +1,17 @@
+[33mcommit 15cea98a7075c06556f5f62812787df3ede57244[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: kessily <¨kessilly@gmail.com>
+Date:   Fri Nov 29 01:34:28 2024 -0300
+
+    .
+
+[33mcommit 205e18fcdf864c541424dd1f51b3a162b0b84e5a[m[33m ([m[1;31morigin/kessily-branch[m[33m)[m
+Author: kessily <¨kessilly@gmail.com>
+Date:   Fri Nov 29 01:12:30 2024 -0300
+
+    Chamando API e integrando login com Firebase
+
+[33mcommit 0925c23bb9544ac0299df62b63a94930a92912ae[m[33m ([m[1;31morigin/kaio-branch[m[33m)[m
+Author: kessily <¨kessilly@gmail.com>
+Date:   Thu Nov 21 17:02:52 2024 -0300
+
+    Initial commit
